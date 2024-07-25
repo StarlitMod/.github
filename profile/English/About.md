@@ -9,5 +9,5 @@ The name `StarlitMod` was decided through a discussion involving members in the 
 
 ```
 Human exploration of the universe is boundless and endless. When we gaze up at the night sky, filled with shimmering lights, do we not wonder what possibilities and dreams lie hidden on those distant planets ? Are there stories and miracles yet to be experienced ?
-Starshine, starshine, illuminating the depths of the night, seems to call out to us, guiding us to transcend the boundaries of time and space, to touch the unknown future---
+Starshine, starshine, illuminating the depths of the night, seems to call out to us, guiding us to transcend the boundaries of time and space, to touch the unknown future————
 ```
