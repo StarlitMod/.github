@@ -8,9 +8,6 @@ Here, we will store the open-source code for some game plugin mods and related p
 The name `StarlitMod` was decided through a discussion involving members in the group.
 
 ```
-Human exploration of the universe is infinite and endless. When we look up at the shimmering lights in the night sky, do we ever wonder if there are possibilities and dreams hidden on those distant planets that we have yet to touch? Are there stories and miracles that we have never experienced?
-Starlight, starlight, illuminates the depths of the night sky, as if calling out to us, guiding us to transcend the boundaries of time and space, to touch that unknown future-
+Human exploration of the universe is boundless and endless. When we gaze up at the night sky, filled with shimmering lights, do we not wonder what possibilities and dreams lie hidden on those distant planets ? Are there stories and miracles yet to be experienced ?
+Starshine, starshine, illuminating the depths of the night, seems to call out to us, guiding us to transcend the boundaries of time and space, to touch the unknown future---
 ```
-
-QQ group：
-![qq_group](https://github.com/StarlitMod/.github/blob/main/img/qq_group.jpg)
